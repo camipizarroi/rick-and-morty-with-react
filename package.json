@@ -2,7 +2,7 @@
   "name": "miaplicacion",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://camipizarroi.github.io/tarea-3.github.io/rick-and-morty-with-react",
+  "homepage": "https://camipizarroi.github.io/rick-and-morty-with-react",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
