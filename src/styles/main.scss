@@ -1,0 +1,14 @@
+// UI settings
+@import './theme/colors';
+
+// components
+@import './components/header';
+@import './components/footer';
+@import './components/content';
+
+
+body{
+    background-color: $blue-1;
+    position: relative;
+    height: 100vh;
+}

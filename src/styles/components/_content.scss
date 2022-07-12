@@ -1,0 +1,33 @@
+.container-character {
+    background-color: $blue-1;
+    padding: 40px 30px;
+}
+
+.card-carrusel {
+    background-color: $black-3;
+    padding: 15px;
+}
+
+.text-1 {
+    color: $cyan-1;
+    font-weight: bold;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 40px;
+    line-height: 19px;
+}
+
+.text-2 {
+    color: $pink-1;
+    font-weight: bold;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 40px;
+    line-height: 19px;
+}
+
+.character-image {
+    border-radius: 5px;
+}
+
+.main-title{
+    color: $yellow-1;
+}
