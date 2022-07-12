@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tarea-3.github.io/rick-and-morty-with-react/static/css/main.c94da4ad.css",
+    "main.js": "/tarea-3.github.io/rick-and-morty-with-react/static/js/main.422ab361.js",
+    "static/media/logo.png": "/tarea-3.github.io/rick-and-morty-with-react/static/media/logo.3be3d43de3933ac45fbe.png",
+    "index.html": "/tarea-3.github.io/rick-and-morty-with-react/index.html",
+    "main.c94da4ad.css.map": "/tarea-3.github.io/rick-and-morty-with-react/static/css/main.c94da4ad.css.map",
+    "main.422ab361.js.map": "/tarea-3.github.io/rick-and-morty-with-react/static/js/main.422ab361.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c94da4ad.css",
+    "static/js/main.422ab361.js"
+  ]
+}
